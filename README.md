@@ -11,5 +11,8 @@ A simple Todo List application built with HTML, CSS, and JavaScript. Users can a
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mideksa17/TodoListApp.git
+ HEAD
+   git clone https://github.com/Mideksa17/Todo-ListApp.git
 
+   git clone https://github.com/Mideksa17/Todo-ListApp.git.git
+ 4266da60fe5b91d533190299b264ae6168c405c3
